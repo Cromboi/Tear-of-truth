@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "rm_title_screen",
+  "name": "rm_file_menu",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,

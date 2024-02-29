@@ -22,7 +22,7 @@ function create_save_file(){
 // Update
 function update_save_file(){
 	var _fname = "ToT_Save_Data.json";
-	ds_map_secure_save(global.SaveData, _fname);
+	ds_map_secure_save(global.save_data, _fname);
 }
 
 // Delete

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_debug_manager",
+  "name": "obj_transition_manager",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
