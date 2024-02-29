@@ -7,7 +7,6 @@
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
-    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
@@ -15,6 +14,8 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Title screen and main menu rooms","order":1,"path":"folders/Rooms/Title screen and main menu rooms.yy",},
+    {"name":"Level rooms","order":2,"path":"folders/Rooms/Level rooms.yy",},
   ],
   "ResourceOrderSettings": [],
 }
