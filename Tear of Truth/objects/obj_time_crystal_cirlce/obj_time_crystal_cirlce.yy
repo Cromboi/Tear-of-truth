@@ -1,20 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_time_crystal_cirlce",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "player objects",
-    "path": "folders/Objects/instance_scope/in game objects/effected by walls objects/player objects.yy",
+    "name": "time crystals",
+    "path": "folders/Objects/instance_scope/in game objects/effected by walls objects/obstacles/time crystals.yy",
   },
   "parentObjectId": {
-    "name": "obj_effected_by_walls",
-    "path": "objects/obj_effected_by_walls/obj_effected_by_walls.yy",
+    "name": "obj_time_crystal",
+    "path": "objects/obj_time_crystal/obj_time_crystal.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_time_crystal_circle",
+    "path": "sprites/spr_time_crystal_circle/spr_time_crystal_circle.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

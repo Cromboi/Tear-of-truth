@@ -1,16 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_menu_camera",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_time_crystal",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "camera objects",
-    "path": "folders/Objects/instance_scope/in game objects/camera objects.yy",
+    "name": "time crystals",
+    "path": "folders/Objects/instance_scope/in game objects/effected by walls objects/obstacles/time crystals.yy",
   },
   "parentObjectId": null,
   "persistent": false,

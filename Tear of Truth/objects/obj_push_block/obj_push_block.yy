@@ -4,6 +4,7 @@
   "name": "obj_push_block",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -11,7 +12,10 @@
     "name": "obstacles",
     "path": "folders/Objects/instance_scope/in game objects/effected by walls objects/obstacles.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_weighted_object",
+    "path": "objects/obj_weighted_object/obj_weighted_object.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -27,7 +31,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_push_block",
+    "path": "sprites/spr_push_block/spr_push_block.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

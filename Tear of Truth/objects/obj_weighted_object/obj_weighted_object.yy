@@ -1,16 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_weighted_object",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "player objects",
-    "path": "folders/Objects/instance_scope/in game objects/effected by walls objects/player objects.yy",
+    "name": "effected by walls objects",
+    "path": "folders/Objects/instance_scope/in game objects/effected by walls objects.yy",
   },
   "parentObjectId": {
     "name": "obj_effected_by_walls",

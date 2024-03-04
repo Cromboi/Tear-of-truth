@@ -12,7 +12,10 @@
     "name": "wall objects",
     "path": "folders/Objects/instance_scope/in game objects/invisible objects/wall objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_wall",
+    "path": "objects/obj_wall/obj_wall.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
