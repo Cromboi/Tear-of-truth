@@ -5,8 +5,8 @@ function initialize_settings(){
 	var _fname = "settings.ini";
 	ini_open(_fname);
 	global.settings = {
-		winscale : ini_read_real("prefs", "winscale", 4),
-		master_volume : ini_read_real("prefs", "master_volume", .5),
+		winscale : ini_read_real("prefs", "winscale", 2),
+		master_volume : ini_read_real("prefs", "master_volume", 0.5),
 		sfx_volume : ini_read_real("prefs", "SFX_volume", 0.5),
 		music_volume : ini_read_real("prefs", "music_volume", 0.5)
 	}
